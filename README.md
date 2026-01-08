@@ -33,7 +33,7 @@ pip install torch-geometric
 # 3. Install Utilities
 pip install numpy pandas matplotlib seaborn scikit-learn</code></pre>
 
-<h2>📈 Performance Comparison</h2>
+<h2>Performance Comparison</h2>
 <p>Based on the evaluation results on the SHMetro dataset, the STGCN model demonstrated the best performance:</p>
 
 <table>
